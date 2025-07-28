@@ -105,7 +105,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**AmirHossein Shamsi**  
 [GitHub Profile](https://github.com/Amir-Hossein-shamsi)  
 📧 shamsiamirhossein1@gmail.com
 
