@@ -35,7 +35,7 @@ pip install osmnx networkx ipyleaflet opencage ipywidgets
 
 > _Example of route visualization 
 
-![Tehran Route Visualization](./data/Screenshot%202025-07-28%20003048.png) <!-- Optional image -->
+![Tehran Route Visualization](./data/screen.png) <!-- Optional image -->
 
 ---
 
@@ -87,3 +87,4 @@ This project is licensed under the MIT License.
 ## ⭐️ Show Your Support
 
 If you like this project, give it a ⭐️
+
